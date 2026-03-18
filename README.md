@@ -1,5 +1,5 @@
 # tic-tac-toe-game
-This project is a Tic-Tac-Toe game developed as part of a team assignment. The goal was to create a fully functional game with porper game logic and user interaction.
+This project is a Tic-Tac-Toe game developed as part of a team assignment. The goal was to create a fully functional game with proper game logic and user interaction.
 
 Technologies Used
 - Python
